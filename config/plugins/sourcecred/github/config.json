@@ -1,0 +1,13 @@
+{
+  "repositories": [
+    "ballena-io/ballena-protocol",
+    "ballena-io/ballena-vote-api",
+    "ballena-io/ballena-vote",
+    "ballena-io/ballena-api",
+    "ballena-io/ballena-dashboard",
+    "ballena-io/ballena-gov",
+    "ballena-io/ballena-app",
+    "ballena-io/ballena-cred",
+    "ballena-io/ballena-landing"
+  ]
+}
