@@ -1,8 +1,8 @@
-// Reparto de 300 BUSD por semana
+// Reparto de X BALLE por semana
 {
  "immediatePerWeek": 0,
  "balancedPerWeek": 75,
  "recentPerWeek": 225,
- "recentWeeklyDecayRate": 0.4,
+ "recentWeeklyDecayRate": 0.16,
  "maxSimultaneousDistributions": 100
 }
