@@ -1,4 +1,4 @@
-# ballena.io SourceCred (BUSD)
+# ballena.io SourceCred (BALLE)
 
 This repository contains the code to run a SourceCred instance.
 
