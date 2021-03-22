@@ -6,6 +6,8 @@
     "ballena-io/ballena-gov",
     "ballena-io/ballena-app",
     "ballena-io/ballena-cred",
-    "ballena-io/ballena-landing"
+    "ballena-io/ballena-landing",
+    "ballena-io/ballena-frontend",
+    "ballena-io/ballena-old-protocol"
   ]
 }
