@@ -1161,5 +1161,3 @@
 {"action":{"identityId":"iMaPJ2mNKJKZxUbRD6WuYw","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1616878224253,"uuid":"bYB71ATLpL301bXrRH6glQ","version":"1"}
 {"action":{"identityId":"I18hoQ3vEVWEBl9INNW4eQ","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1616878230955,"uuid":"QRH29K6wcYNrPWfau4KGHg","version":"1"}
 {"action":{"identityId":"dmJoCQrKErtgnmWm3y0Xjg","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1616878238732,"uuid":"XYBm2JJX9AdKEUkVUwP3aw","version":"1"}
-{"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u0000RSzF16yUk3LbGzBr8LA77Q\u0000","aliases":[],"id":"RSzF16yUk3LbGzBr8LA77Q","name":"Un0","subtype":"USER"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1616879152596,"uuid":"EzsNof0mdT20jKvxgg68JQ","version":"1"}
-{"action":{"alias":{"address":"N\u0000sourcecred\u0000discord\u0000MEMBER\u0000user\u0000334382284054724632\u0000","description":"discord/Un0#6886"},"identityId":"RSzF16yUk3LbGzBr8LA77Q","type":"ADD_ALIAS"},"ledgerTimestamp":1616879152597,"uuid":"ylsvdb2iaR1WQw3ENSqB3A","version":"1"}
