@@ -8,6 +8,7 @@
     "ballena-io/ballena-cred",
     "ballena-io/ballena-landing",
     "ballena-io/ballena-old-protocol",
-    "ballena-io/ballena-frontend"
+    "ballena-io/ballena-frontend",
+    "ballena-io/ballena-toolkit"
   ]
 }
