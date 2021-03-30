@@ -1,3 +1,5 @@
+[![GitHub Actions](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fballena-io%2Fballena-cred%2Fbadge)](https://actions-badge.atrox.dev/ballena-io/ballena-cred/goto)
+
 # ballena.io SourceCred (BALLE)
 
 This repository contains the code to run a SourceCred instance.
