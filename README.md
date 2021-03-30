@@ -1,4 +1,5 @@
 [![GitHub Actions](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fballena-io%2Fballena-cred%2Fbadge)](https://actions-badge.atrox.dev/ballena-io/ballena-cred/goto)
+<img src="https://img.shields.io/discord/805920662506045530?logo=discord" alt="chat on Discord"></a>
 
 # ballena.io SourceCred (BALLE)
 
