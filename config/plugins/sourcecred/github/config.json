@@ -10,6 +10,7 @@
     "ballena-io/ballena-old-protocol",
     "ballena-io/ballena-toolkit",
     "ballena-io/ballena-uikit",
-    "ballena-io/ballena-automator"
+    "ballena-io/ballena-automator",
+    "ballena-io/ballena-frontend"
   ]
 }
