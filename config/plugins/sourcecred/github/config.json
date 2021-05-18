@@ -1,5 +1,6 @@
 {
   "repositories": [
+    "ballena-io/ballena-frontend",
     "ballena-io/ballena-protocol",
     "ballena-io/ballena-api",
     "ballena-io/ballena-dashboard",
@@ -10,7 +11,6 @@
     "ballena-io/ballena-old-protocol",
     "ballena-io/ballena-toolkit",
     "ballena-io/ballena-uikit",
-    "ballena-io/ballena-automator",
-    "ballena-io/ballena-frontend"
+    "ballena-io/ballena-automator"
   ]
 }
