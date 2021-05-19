@@ -2700,10 +2700,10 @@ source-map@^0.6.1:
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
 
-sourcecred@^0.8.6:
-  version "0.8.6"
-  resolved "https://registry.yarnpkg.com/sourcecred/-/sourcecred-0.8.6.tgz#99612c23bc26f954594239f5f0ce3c6249f762e5"
-  integrity sha512-CCrrvg/HhjB7FAxfWKyi+tOv3+vpT5cHlEJ0CTPTc275QarWgJz5kGLlGj6Par/AL2q8B5QeMJXH4lpV4JU1NA==
+sourcecred@^0.8.7:
+  version "0.8.7"
+  resolved "https://registry.yarnpkg.com/sourcecred/-/sourcecred-0.8.7.tgz#1002f6bcb0bf5671897908e84e4bf8ac8784397d"
+  integrity sha512-8VugdBIDaysgEj0iYaz/zu1oVFGGpEhvjdXHn5b2fqVS5cW2fnoRC6y8fBYmpUJYBpvZlUH+5V5j/L7JCBkjgg==
   dependencies:
     "@material-ui/core" "^4.11.2"
     "@material-ui/icons" "^4.11.2"
