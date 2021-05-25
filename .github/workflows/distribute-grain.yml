@@ -33,9 +33,9 @@ jobs:
       - name: Set environment variables
         id: pr_details
         run: |
-          echo "PULL_REQUEST_TITLE=Scheduled grain distribution for week ending $(date +"%B %dth, %Y")" >> $GITHUB_ENV
-          description="This PR was auto-generated on $(date +%d-%m-%Y) \
-            to add the latest grain distribution to our instance.
+          echo "PULL_REQUEST_TITLE=Distribución de BALLE programada para el final de la semana $(date +"%B %dth, %Y")" >> $GITHUB_ENV
+          description="Este PR se generó el $(date +%d-%m-%Y) \
+            para agregar la última distribución de BALLE a nuestra instancia.
 
             $(cat grain_output.txt)"
           description="${description//'%'/'%25'}"
@@ -50,10 +50,10 @@ jobs:
         with:
           branch: generated-ledger
           branch-suffix: timestamp
-          committer: credbot <credbot@users.noreply.github.com>
+          committer: cryptoballena <crypto@ballena.io>
           # author appears to be overridden when the default github action
           # token is used for checkout
-          author: credbot <credbot@users.noreply.github.com>
+          author: cryptoballena <crypto@ballena.io>
           commit-message: update calculated ledger
           title: ${{ env.PULL_REQUEST_TITLE }}
           body: ${{ steps.pr_details.outputs.pr_body }}
